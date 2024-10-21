@@ -20,20 +20,20 @@ Este é o frontend do projeto <strong> Sistema de Reservas de Salas,</strong> de
 <br>
 
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/felipexavier26/ReservaFrontend.git
-
-2. **Navegue até o diretório do projeto:**
-   ```bash
-   cd ReservaFrontend
-
-3. **Instale as dependências:**
-   ```bash
-   npm install
-
-4. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
+<h1>Instruções de Instalação e Execução</h1>
+<ol>
+    <li><strong>Clone o repositório:</strong>
+        <pre><code>git clone https://github.com/felipexavier26/ReservaFrontend.git</code></pre>
+    </li>
+    <li><strong>Navegue até o diretório do projeto:</strong>
+        <pre><code>cd ReservaFrontend</code></pre>
+    </li>
+    <li><strong>Instale as dependências:</strong>
+        <pre><code>npm install</code></pre>
+    </li>
+    <li><strong>Inicie o servidor de desenvolvimento:</strong>
+        <pre><code>npm run dev</code></pre>
+    </li>
+</ol>
 
 
