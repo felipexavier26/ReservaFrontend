@@ -19,7 +19,20 @@ Este é o frontend do projeto <strong> Sistema de Reservas de Salas,</strong> de
 <li><strong>Modal de Exclusão: </strong> Modal de confirmação utilizando Bootstrap para garantir que o usuário deseja realmente excluir.</li>
 
 
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/felipexavier26/ReservaFrontend.git
 
+2. **Navegue até o diretório do projeto:**
+   ```bash
+   cd ReservaFrontend
 
+3. **Instale as dependências:**
+   ```bash
+   npm install
+
+4. **Inicie o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
 
 
