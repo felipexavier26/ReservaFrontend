@@ -13,10 +13,23 @@ Este é o frontend do projeto <strong> Sistema de Reservas de Salas,</strong> de
 <li><strong>React Data Table Component:</strong>  Para a exibição de dados em formato de tabela.</li>
 
 
-<h1>🖥️ Funcionalidade de Interface</h1>
-<li><strong>Listagem de Usuários: </strong> Tabela responsiva que exibe todos os usuários com botões para editar e excluir.</li>
-<li><strong>Cadastro de Usuário: </strong> Formulário simples para adicionar um novo usuário.</li>
-<li><strong>Modal de Exclusão: </strong> Modal de confirmação utilizando Bootstrap para garantir que o usuário deseja realmente excluir.</li>
+<h1>Funcionalidade de Interface</h1>
+<ul>
+    <li><strong>Gerenciamento de Salas:</strong>
+        <ul>
+            <li><strong>Listagem de Salas:</strong> Tabela responsiva que exibe todas as salas disponíveis, com opções para editar e excluir.</li>
+            <li><strong>Cadastro de Salas:</strong> Formulário para adicionar novas salas, onde o usuário pode selecionar as salas cadastradas no banco de dados a partir de um <code>select</code>.</li>
+        </ul>
+    </li>
+    <li><strong>Gerenciamento de Reservas:</strong>
+        <ul>
+            <li><strong>Listagem de Reservas:</strong> Tabela responsiva que exibe todas as reservas de salas, com opções para editar e excluir.</li>
+            <li><strong>Cadastro de Reservas:</strong> Formulário para adicionar novas reservas, permitindo que o usuário escolha entre as salas disponíveis a partir de um <code>select</code> que busca as salas cadastradas no banco de dados.</li>
+        </ul>
+    </li>
+    <li><strong>Modal de Exclusão:</strong> Modal de confirmação utilizando Bootstrap para garantir que o usuário deseja realmente excluir salas ou reservas.</li>
+</ul>
+
 <br>
 
 
