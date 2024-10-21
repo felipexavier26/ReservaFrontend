@@ -18,17 +18,23 @@ Este é o frontend do projeto <strong> Sistema de Reservas de Salas,</strong> de
     <li><strong>Gerenciamento de Salas:</strong>
         <ul>
             <li><strong>Listagem de Salas:</strong> Tabela responsiva que exibe todas as salas disponíveis, com opções para editar e excluir.</li>
-            <li><strong>Cadastro de Salas:</strong> Formulário para adicionar novas salas, onde o usuário pode selecionar as salas cadastradas no banco de dados a partir de um <code>select</code>.</li>
+            <li><strong>Cadastro de Salas:</strong> Formulário para adicionar novas salas.</li>
+            <li><strong>Modal de Visualização de Salas:</strong> Modal que exibe detalhes sobre cada sala ao clicar na opção de visualizar.</li>
+            <li><strong>Modal de Deleção de Salas:</strong> Modal de confirmação para garantir que o usuário deseja realmente excluir uma sala.</li>
+            <li><strong>Modal de Edição de Salas:</strong> Modal que permite editar os detalhes de uma sala selecionada.</li>
         </ul>
     </li>
     <li><strong>Gerenciamento de Reservas:</strong>
         <ul>
             <li><strong>Listagem de Reservas:</strong> Tabela responsiva que exibe todas as reservas de salas, com opções para editar e excluir.</li>
-            <li><strong>Cadastro de Reservas:</strong> Formulário para adicionar novas reservas, permitindo que o usuário escolha entre as salas disponíveis a partir de um <code>select</code> que busca as salas cadastradas no banco de dados.</li>
+            <li><strong>Cadastro de Reservas:</strong> Formulário para adicionar novas reservas, permitindo que o usuário escolha entre as salas disponíveis.</li>
+            <li><strong>Modal de Visualização de Reservas:</strong> Modal que exibe detalhes sobre cada reserva ao clicar na opção de visualizar.</li>
+            <li><strong>Modal de Deleção de Reservas:</strong> Modal de confirmação para garantir que o usuário deseja realmente excluir uma reserva.</li>
+            <li><strong>Modal de Edição de Reservas:</strong> Modal que permite editar os detalhes de uma reserva selecionada.</li>
         </ul>
     </li>
-    <li><strong>Modal de Exclusão:</strong> Modal de confirmação utilizando Bootstrap para garantir que o usuário deseja realmente excluir salas ou reservas.</li>
 </ul>
+
 
 <br>
 
