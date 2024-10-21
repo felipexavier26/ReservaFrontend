@@ -17,6 +17,7 @@ Este é o frontend do projeto <strong> Sistema de Reservas de Salas,</strong> de
 <li><strong>Listagem de Usuários: </strong> Tabela responsiva que exibe todos os usuários com botões para editar e excluir.</li>
 <li><strong>Cadastro de Usuário: </strong> Formulário simples para adicionar um novo usuário.</li>
 <li><strong>Modal de Exclusão: </strong> Modal de confirmação utilizando Bootstrap para garantir que o usuário deseja realmente excluir.</li>
+<br>
 
 
 1. **Clone o repositório:**
