@@ -1,0 +1,29 @@
+.form_control{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+.form_control label{
+    margin-bottom: 0.6em;
+    font-weight: bold;
+}
+.form_control input, 
+.form_control textarea, 
+.form_control select {
+    padding: 0.7em;
+    border-radius: 5px;
+    border: 1px solid #14458b;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form_control input::placeholder{
+    color: #7b7b7b;
+}
+.form_control textarea::placeholder{
+    color: #7b7b7b;
+}
+
+.form_control select::placeholder{
+    color: #7b7b7b;
+}

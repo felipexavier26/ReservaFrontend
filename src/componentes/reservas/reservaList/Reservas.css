@@ -1,0 +1,8 @@
+.container-xl{
+    max-width: 1350px !important;
+    margin: 0 auto;
+}
+.btn-custom {
+    color: #fff !important;
+}
+

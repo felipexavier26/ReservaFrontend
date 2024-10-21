@@ -1,0 +1,21 @@
+.container-sm {
+    max-width: 800px !important;
+    padding: 20px;
+    margin: auto;
+}
+
+.form-control {
+    padding: 0.5rem;
+    border-radius: 4px;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+}
+.alert-danger{
+    max-width: 500px;    
+}
+
+ul li{
+    margin-left: 10px;
+}

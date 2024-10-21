@@ -1,0 +1,14 @@
+.container-sm {
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+}
+
+.form-control {
+    padding: 0.5rem;
+    border-radius: 4px;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+}
