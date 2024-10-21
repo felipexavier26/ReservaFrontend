@@ -17,7 +17,7 @@ Este é o frontend do projeto <strong> Sistema de Reservas de Salas,</strong> de
 <ul>
     <li><strong>Gerenciamento de Salas:</strong>
         <ul>
-            <li><strong>Listagem de Salas:</strong> Tabela responsiva que exibe todas as salas disponíveis, com opções para editar e excluir.</li>
+            <li><strong>Listagem de Salas:</strong> Tabela responsiva que exibe todas as salas disponíveis, com opções para editar e excluir.</li> 
             <li><strong>Cadastro de Salas:</strong> Formulário para adicionar novas salas.</li>
             <li><strong>Modal de Visualização de Salas:</strong> Modal que exibe detalhes sobre cada sala ao clicar na opção de visualizar.</li>
             <li><strong>Modal de Deleção de Salas:</strong> Modal de confirmação para garantir que o usuário deseja realmente excluir uma sala.</li>
