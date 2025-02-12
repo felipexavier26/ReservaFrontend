@@ -56,3 +56,11 @@ Este é o frontend do projeto <strong> Sistema de Reservas de Salas,</strong> de
 </ol>
 
 
+
+![image](https://github.com/user-attachments/assets/3a524c9c-994a-472b-a896-39262be942df)
+
+![image](https://github.com/user-attachments/assets/b391389f-db16-4640-93f3-46d3847bf6e3)
+
+
+
+
